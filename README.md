@@ -26,7 +26,7 @@ To run the Age Calculator locally, follow these steps:
 2. Navigate to the project directory:
    
 ```bash
-  Copy code
+
     cd Age_calculator
 ```
 
